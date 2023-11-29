@@ -15,5 +15,5 @@ A brief description of each of the files is below:
 
 Bike geomemetry will affect results. Bottom bracket drop, rear center, front center, wheel size, and the bike-rider center of gravity can all be defined in the fourBar.m file.
 
-![Alt text](https://github.com/nilskingston1/bikeDesign/edit/main/README.md.?raw=true "Optional Title")
+![Alt text](https://github.com/nilskingston1/bikeDesign/blob/main/4%20Bar%20Derivation.png.?raw=true "Optional Title")
 
