@@ -10,7 +10,7 @@ A brief description of each of the files is below:
 |circleCircle.m       |Calculates the tangent coordinates of the chainline at the rear cog and front chainring (see derivation)            |
 |lineIntersect.m      |Calculates the intersect of two lines. Used to find instant center coordinates.                                     |
 |pivotTest2.m         |Sovles for motion and kinematics for a set of defined pivot locations. Calls fourBar.m                              |
-|pivotOptimizationV2.m|Optimization iterative solver. Still a work in progress.                                                            | 
+|pivotOptimizationV2.m|Optimization iterative solver. Still a work in progress. Uses a brute force method.                                 | 
 |checkPass.m          |Checks if pivot points in optimization solver meet the user-defined kinematic specifications                        |
 
 Bike geometry will affect results. Bottom bracket drop, rear center, front center, wheel size, and the bike-rider center of gravity can all be defined in the fourBar.m file.
