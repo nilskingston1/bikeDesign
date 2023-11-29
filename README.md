@@ -15,7 +15,7 @@ A brief description of each of the files is below:
 
 Bike geometry will affect results. Bottom bracket drop, rear center, front center, wheel size, and the bike-rider center of gravity can all be defined in the fourBar.m file.
 
-Below you will find some derivations for the driving mathematics used in the scripts.
+Below you will find some derivations for the driving mathematics used in the code.
 
 4 Bar Derivation. This is the derivation used to find the change in position of the pivot coordinates as the suspension moves through its travel (change in angle theta 1). I'm using Euler's formula and a series of trig identities to solve for the real roots of the system of equations. These are driving equations in the fourBar.m file.
 ![4 Bar Derivation](https://github.com/nilskingston1/bikeDesign/blob/main/4%20Bar%20Derivation.png)
