@@ -3,7 +3,7 @@ This directory contains scripts and functions that calculate the movement of a f
 
 A brief description of each of the files is below:
 | File                | Description                                                                                                        |
-|--------------------:|--------------------------------------------------------------------------------------------------------------------|
+|---------------------|--------------------------------------------------------------------------------------------------------------------|
 |fourBar.m            |Calculates the motion (see derivation below) and kinematics of a 4 bar suspension layout. Calls the below functions.| 
 |antiRise.m           |Calculates the anti-rise values through suspension travel                                                           |
 |antiSquat.m          |Calculates the anti-squat values through suspension travel. Calls circleCircle.m                                    |
